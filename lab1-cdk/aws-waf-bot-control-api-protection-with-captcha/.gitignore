@@ -1,8 +1,0 @@
-node_modules/
-cdk.out
-.DS_Store
-package-lock.json
-*.d.ts
-*.js
-!index.js
-lambda/custom-resource/package.json
